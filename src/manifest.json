@@ -23,7 +23,7 @@
     "browser_specific_settings": {
       "gecko": {
         "id": "hacktools@lascc",
-        "strict_min_version": "60.0"
+        "strict_min_version": "102.0"
       }
     }
 }
