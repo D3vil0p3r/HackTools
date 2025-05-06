@@ -20,4 +20,10 @@
     },
     "manifest_version": 3,
     "devtools_page": "devtools.html"
+    "browser_specific_settings": {
+      "gecko": {
+        "id": "hacktools@lascc",
+        "strict_min_version": "60.0"
+      }
+    }
 }
