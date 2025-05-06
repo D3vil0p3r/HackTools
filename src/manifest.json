@@ -19,7 +19,7 @@
         "128": "./src/assets/img/icons/get_started128.png"
     },
     "manifest_version": 3,
-    "devtools_page": "devtools.html"
+    "devtools_page": "devtools.html",
     "browser_specific_settings": {
       "gecko": {
         "id": "hacktools@lascc",
